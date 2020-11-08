@@ -1,0 +1,25 @@
+.left {
+	float: left;
+	width: 70%;
+}
+.right {
+	float: right;
+	width: 20%;
+}
+
+.article-left {
+	float: left;
+
+	width: 33.3%;
+	height: 250px;
+}
+.article-centre {
+	float: left;
+	width: 33.3%;
+	height: 250px;
+}
+.article-right {
+	float: left;
+	width: 33.3%;
+	height: 250px;
+}
